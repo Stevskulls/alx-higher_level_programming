@@ -1,4 +1,4 @@
- #!/usr/bin/python3
+#!/usr/bin/python3
 # 4-only_diff_elements.py
 
 
